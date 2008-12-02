@@ -3,7 +3,7 @@
 	Plugin Name: In The Loop
 	Plugin URI: http://xentek.net/code/wordpress/plugins/in-the-loop/
 	Description: This plugin allows you to insert arbitrary content before or after your post or page content. Great for integrating other plugins or ad code into the body of your posts or pages, without having to hack your theme. <a href="/wp-admin/options-general.php?page=in-the-loop/in-the-loop-options.php">Configure Settings</a> or <a href="http://xentek.net/code/wordpress/plugins/in-the-loop/">Get Support</a>. <em>Code</em> 
-	Version: 0.3
+	Version: 0.4
 	Author: Eric Marden
 	Author URI: http://www.xentek.net/
 */

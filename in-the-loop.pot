@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Eric Marden
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/in-the-loop\n"
+"POT-Creation-Date: 2008-12-02 14:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: in-the-loop-options.php:57
+msgid "You're in the loop!"
+msgstr ""
+
+#: in-the-loop-options.php:57
+msgid "Options Saved."
+msgstr ""
+
+#: in-the-loop-options.php:132 in-the-loop-options.php:133
+msgid "In The Loop"
+msgstr ""
+
+#: in-the-loop-options.php:133
+msgid "Be in the loop!"
+msgstr ""
+
+#: in-the-loop-options.php:133
+msgid ""
+"Not all plugins provide a way to automatically attach code before or after "
+"the post content. Or you might have some other HTML, CSS or JavaScript you'd "
+"like to include with every post. Now's your chance. With"
+msgstr ""
+
+#: in-the-loop-options.php:133
+msgid ""
+"you can easily add any code you like to your posts and pages, and not have "
+"to do any messy edits to your theme files either. Bonus!"
+msgstr ""
+
+#: in-the-loop-options.php:134
+msgid ""
+"The options below control where the content will show up, but all locations "
+"will use the same content."
+msgstr ""
+
+#: in-the-loop-options.php:143 in-the-loop-options.php:155
+msgid "Apply to Teaser?"
+msgstr ""
+
+#: in-the-loop-options.php:144 in-the-loop-options.php:156
+msgid "Apply to Full Content?"
+msgstr ""
+
+#: in-the-loop-options.php:145 in-the-loop-options.php:157
+msgid "Apply to Excerpt?"
+msgstr ""
+
+#: in-the-loop-options.php:146 in-the-loop-options.php:158
+msgid "Apply to Pages?"
+msgstr ""
+
+#: in-the-loop-options.php:147 in-the-loop-options.php:159
+msgid "Apply To RSS Feed?"
+msgstr ""
+
+#: in-the-loop-options.php:148 in-the-loop-options.php:160
+msgid "Execute PHP?"
+msgstr ""
+
+#: in-the-loop-options.php:164
+msgid "Update Options »"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "In The Loop"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://xentek.net/code/wordpress/plugins/in-the-loop/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"This plugin allows you to insert arbitrary content before or after your post "
+"or page content. Great for integrating other plugins or ad code into the body "
+"of your posts or pages, without having to hack your theme. <a "
+"href=\"/wp-admin/options-general.php?page=in-the-loop/in-the-loop-options.php\">Configure "
+"Settings</a> or <a "
+"href=\"http://xentek.net/code/wordpress/plugins/in-the-loop/\">Get "
+"Support</a>. <em>Code</em>"
+msgstr ""
+
+#. Author of an extension
+msgid "Eric Marden"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.xentek.net/"
+msgstr ""

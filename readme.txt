@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: xenlab
 Donate link: http://xentek.net/code/wordpress/plugins/in-the-loop/
-Tags: comments, spam
+Tags: content, the loop, snippets, code, theme, themes, template, custom, css, html, javascript, formatting, style
 Requires at least: 2.2
 Tested up to: 2.6.5
 Stable tag: trunk

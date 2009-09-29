@@ -24,6 +24,7 @@
 $path = PLUGINDIR.'/'.dirname(plugin_basename(__FILE__));
 
 if ( !empty($_POST ) ) :
+	check_admin_referer('update-options');
 	update_option('intheloop_before_content',$_POST['intheloop_before_content']);
   	update_option('intheloop_after_content',$_POST['intheloop_after_content']);
 
